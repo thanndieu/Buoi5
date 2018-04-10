@@ -1,0 +1,7 @@
+D:\Thui\Thui\Thui\bin\Debug\Thui.exe
+D:\Thui\Thui\Thui\bin\Debug\Thui.pdb
+D:\Thui\Thui\Thui\obj\x86\Debug\Thui.Form1.resources
+D:\Thui\Thui\Thui\obj\x86\Debug\Thui.Properties.Resources.resources
+D:\Thui\Thui\Thui\obj\x86\Debug\Thui.csproj.GenerateResource.Cache
+D:\Thui\Thui\Thui\obj\x86\Debug\Thui.exe
+D:\Thui\Thui\Thui\obj\x86\Debug\Thui.pdb

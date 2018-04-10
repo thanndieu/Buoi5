@@ -1,0 +1,7 @@
+D:\Thui\Thui\SV\bin\Debug\SV.exe
+D:\Thui\Thui\SV\bin\Debug\SV.pdb
+D:\Thui\Thui\SV\obj\x86\Debug\SV.Form1.resources
+D:\Thui\Thui\SV\obj\x86\Debug\SV.Properties.Resources.resources
+D:\Thui\Thui\SV\obj\x86\Debug\SV.csproj.GenerateResource.Cache
+D:\Thui\Thui\SV\obj\x86\Debug\SV.exe
+D:\Thui\Thui\SV\obj\x86\Debug\SV.pdb
